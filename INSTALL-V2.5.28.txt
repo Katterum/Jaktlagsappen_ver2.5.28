@@ -1,0 +1,12 @@
+KATTERUMS JAKTLAG v2.5.28
+
+Bas: fungerande v2.5.27.
+
+Andringar:
+- Information/anslag lagras och hamtas fran Supabase-tabellen info_posts.
+- Samma anslag visas pa mobil, dator och Hem.
+- Prioritet och forfattare bevaras.
+- Admin/jaktledare kan radera anslag fran Supabase.
+- Chatt, kalender, observationer, jakter och statistik ar oforandrade.
+
+SQL-tabellen ar redan skapad. SETUP-filen ingar endast som referens.
